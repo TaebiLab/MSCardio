@@ -1,0 +1,109 @@
+Subject_ID,Device_name,Platform,No_of_Recording,Sex,Race,Age,Height,Weight
+Subject_0001,iPhone 11,ios,6,Female,Asian,20,163,130
+Subject_0002,iPhone 15 Pro Max,ios,7,Female,Black or African American,22,173,98
+Subject_0003,iPhone 12 mini,ios,6,Male,White,22,170,135
+Subject_0004,iPhone 14 Pro,ios,6,Male,White,22,170,95
+Subject_0005,iPhone 13,ios,15,Female,White,21,163,68
+Subject_0006,iPhone 14 Pro,ios,6,Male,Black or African American,22,172,150
+Subject_0007,iPhone 12 Pro Max,ios,2,Female,White,23,163,54
+Subject_0008,iPhone 14,ios,7,Male,White,21,180,99
+Subject_0009,iPhone 14 Pro,ios,14,Female,Black or African American,21,155,66
+Subject_0010,iPhone 13,ios,6,Female,White,21,175,63
+Subject_0011,iPhone 14,ios,1,Female,White,28,162,200
+Subject_0012,iPhone 14 Pro Max,ios,6,Male,White,22,183,76
+Subject_0013,SM-G990U,android,1,Female,More than one races,28,152.4,48.53
+Subject_0014,iPhone 15 Pro Max,ios,7,Female,Black or African American,22,165,65
+Subject_0015,Pixel 6,android,2,Female,White,40,172.1,77.111
+Subject_0016,iPhone 11 Pro,ios,1,Female,White,56,163,94
+Subject_0017,Pixel 6,android,5,Male,White,21,185,86.4
+Subject_0018,iPhone 15,ios,6,Female,White,21,170,56
+Subject_0019,iPhone 14 Pro,ios,3,Female,White,22,170,59
+Subject_0020,iPhone 13,ios,1,Female,White,19,163,68
+Subject_0021,SM-G975U,android,5,Male,White,22,182.9,74.8
+Subject_0022,iPhone 13,ios,7,Male,White,21,177,160
+Subject_0023,iPhone 12 Pro Max,ios,9,Female,Black or African American,25,168,200
+Subject_0024,iPhone 15 Pro Max,ios,1,Male,American Indian or Alaska Native,21,193,245
+Subject_0025,iPhone 13,ios,6,Female,White,22,17018,7257
+Subject_0026,iPhone 12,ios,1,Female,White,23,170,68
+Subject_0027,iPhone 12 Pro Max,ios,3,Female,White,21,163,55
+Subject_0028,iPhone 13,ios,5,Male,More than one races,21,181,84
+Subject_0029,iPhone 13,ios,1,Male,Asian,20,172,150
+Subject_0030,iPhone 12 Pro Max,ios,2,Female,White,51,16256,13878
+Subject_0031,iPhone 15 Pro,ios,7,Female,White,23,160,54
+Subject_0032,iPhone17-1,ios,1,Male,White,40,170,85
+Subject_0033,iPhone 14,ios,1,Female,White,19,163,51
+Subject_0034,SM-S515DL,android,2,Male,White,22,176,76
+Subject_0035,iPhone 14,ios,1,Female,White,21,168,59
+Subject_0036,iPhone 14,ios,5,Female,Black or African American,21,167,82
+Subject_0037,iPhone 12 mini,ios,4,Female,Asian,22,162,75
+Subject_0038,iPhone 14 Pro Max,ios,1,Female,White,21,162,81
+Subject_0039,iPhone 15,ios,5,Female,White,21,155,44
+Subject_0040,iPhone 14 Pro Max,ios,1,Male,Black or African American,18,68,155
+Subject_0041,iPhone 14,ios,5,Female,White,21,170,52
+Subject_0042,iPhone 15 Pro Max,ios,1,Male,White,36,164,66
+Subject_0043,iPhone SE (2nd generation),ios,1,Male,White,41,176,84
+Subject_0044,iPhone 13 Pro,ios,3,Female,Asian,23,163,67
+Subject_0045,iPhone 13,ios,8,Male,Black or African American,21,170,65
+Subject_0046,iPhone 15,ios,1,Female,White,44,176,77
+Subject_0047,motorola one 5G ace,android,5,Male,White,22,190.5,341.713
+Subject_0048,iPhone 15,ios,5,Female,White,21,157,61
+Subject_0049,iPhone 12,ios,1,Female,White,36,162,118
+Subject_0050,iPhone 14 Pro Max,ios,6,Female,White,21,167,73
+Subject_0051,iPhone 12,ios,1,Female,White,20,178,65
+Subject_0052,iPhone 14 Pro,ios,3,Male,White,22,76,93
+Subject_0053,iPhone 12 Pro Max,ios,1,Female,White,18,172,63
+Subject_0054,iPhone 13,ios,5,Female,White,21,172,61
+Subject_0055,iPhone 14 Plus,ios,4,Male,Asian,22,175,75
+Subject_0056,iPhone 14 Pro Max,ios,5,Male,White,21,183,170
+Subject_0057,iPhone 14,ios,7,Female,White,21,158,66
+Subject_0058,iPhone 14 Plus,ios,1,Male,Black or African American,20,185,195
+Subject_0059,iPhone 15 Pro,ios,5,Female,White,22,161,55
+Subject_0060,iPhone 13 Pro,ios,1,Male,White,21,187,113
+Subject_0061,iPhone 15 Plus,ios,5,Male,White,22,178,80
+Subject_0062,CPH2113,android,6,Female,Asian,20,12.7,50
+Subject_0063,iPhone SE (2nd generation),ios,1,Male,White,45,180,82
+Subject_0064,iPhone 15 Pro Max,ios,2,Female,More than one races,22,168,71
+Subject_0065,SM-S901U1,android,1,Male,White,37,178,97
+Subject_0066,iPhone XS,ios,59,Male,White,36,177,88
+Subject_0067,iPhone XR,ios,2,Male,White,57,188,86
+Subject_0068,iPhone 14,ios,2,Male,White,51,152,95
+Subject_0069,iPhone 13 Pro,ios,3,Female,White,22,160,130
+Subject_0070,iPhone 11 Pro Max,ios,6,Male,White,20,183,86
+Subject_0071,SM-S901U1,android,1,Male,White,47,187,94
+Subject_0072,moto g power 5G - 2023,android,1,Male,White,59,177,73
+Subject_0073,iPhone 14,ios,1,Male,White,19,188,88
+Subject_0074,iPhone 11,ios,13,Male,White,21,165,63
+Subject_0075,iPhone 11,ios,2,Female,White,20,163,116
+Subject_0076,SM-S918U1,android,1,Male,Asian,39,168,60
+Subject_0077,iPhone 14 Pro,ios,3,Female,White,22,167,75
+Subject_0078,iPhone 14,ios,5,Male,White,21,183,75
+Subject_0079,iPhone 14,ios,1,Female,White,18,155,56
+Subject_0080,iPhone SE (2nd generation),ios,1,Female,White,18,180,175
+Subject_0081,iPhone 14 Pro,ios,6,Female,White,30,169,60
+Subject_0082,iPhone 14 Pro,ios,7,Female,White,22,157,287
+Subject_0083,iPhone17-1,ios,1,Male,White,61,165,118
+Subject_0084,iPhone 14 Pro,ios,5,Female,White,21,158,66
+Subject_0085,iPhone 14 Plus,ios,5,Female,White,22,160,68
+Subject_0086,iPhone 14 Pro Max,ios,21,Female,Asian,23,150,73
+Subject_0087,SM-S906U1,android,1,,,,,
+Subject_0088,iPhone 13 Pro Max,ios,6,Female,None,21,165,143
+Subject_0089,iPhone 14 Pro,ios,6,Female,White,21,163,58
+Subject_0090,iPhone 14,ios,12,Male,White,22,185,73
+Subject_0091,iPhone 12 Pro,ios,6,Female,White,22,172,63
+Subject_0092,iPhone 15 Pro Max,ios,6,Male,White,23,185,84
+Subject_0093,iPhone 12 Pro Max,ios,1,Male,White,22,180,82
+Subject_0094,iPhone 13,ios,7,Female,White,21,170,72
+Subject_0095,iPhone XR,ios,5,Male,White,21,186,82
+Subject_0096,iPhone 14 Pro Max,ios,5,Female,White,22,167,72
+Subject_0097,iPhone 14 Pro Max,ios,1,Male,White,20,180,71
+Subject_0098,iPhone XR,ios,4,Male,White,21,178,66
+Subject_0099,SM-S916U,android,1,Female,White,54,170.18,69.85
+Subject_0100,iPhone 15,ios,5,Female,White,21,163,57
+Subject_0101,iPhone 11 Pro,ios,1,Male,White,62,186,185
+Subject_0102,iPhone 14,ios,1,Male,White,20,178,160
+Subject_0103,iPhone 15 Pro Max,ios,6,Female,White,21,162,53
+Subject_0104,iPhone 13 Pro Max,ios,6,Male,White,22,173,68
+Subject_0105,iPhone 15 Pro,ios,6,Female,White,20,173,57
+Subject_0106,iPhone 12 Pro,ios,3,Female,White,22,162,64
+Subject_0107,iPhone 14 Pro,ios,3,Female,Asian,19,160,52
+Subject_0108,iPhone 11,ios,4,Female,White,23,162,91
