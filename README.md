@@ -85,9 +85,9 @@ If you use this dataset in your research, please cite:
 
 For any questions regarding the dataset, please contact:
 
-- **Your Name**: (Amirtah{\`a} Taebi)
-- **E-mail**: ataebi@abe.msstate.edu
-- **Institution**: Mississippi State University
+- **Your Name**: Amirtah`a Taebi and Mohammad Muntasir Rahman
+- **E-mail**: ataebi@abe.msstate.edu, mmr510@msstate.edu
+- **Institution**: Agricultural and Biological Engineering, Mississippi State University
 
 ---
 
