@@ -66,6 +66,7 @@ This dataset is intended for research in:
 - Machine learning applications in cardiovascular monitoring
 - Investigating inter- and intra-subject variability in SCG signals
 - Remote cardiovascular health assessment
+- The `Data_visualization.py` script is provided for data visualization
 
 ## Citation
 
