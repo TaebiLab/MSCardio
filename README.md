@@ -1,12 +1,12 @@
-# MSCardio Seismocardiography (SCG) Dataset
+# MSCardio Seismocardiography Dataset
 
 ## Overview
 
-The **MSCardio Seismocardiography (SCG) Dataset** is an open-access dataset collected as part of the Mississippi State Remote Cardiovascular Monitoring (MSCardio) study. This dataset includes SCG signals recorded from participants using smartphone sensors, enabling scalable, real-world cardiovascular monitoring without requiring specialized equipment. The dataset aims to support research in SCG signal processing, machine learning applications in health monitoring, and cardiovascular assessment.
+The **MSCardio Seismocardiography Dataset** is an open-access dataset collected as part of the Mississippi State Remote Cardiovascular Monitoring (MSCardio) study. This dataset includes seismocardiogram (SCG) signals recorded from participants using smartphone sensors, enabling scalable, real-world cardiovascular monitoring without requiring specialized equipment. The dataset aims to support research in SCG signal processing, machine learning applications in health monitoring, and cardiovascular assessment.
 
 ## Background
 
-Cardiovascular diseases remain the leading cause of morbidity and mortality worldwide. Seismocardiography (SCG) is a non-invasive technique that captures chest vibrations induced by cardiac activity and respiration, providing valuable insights into cardiac function. However, the scarcity of open-access SCG datasets has been a significant limitation for research in this field. The **MSCardio dataset** addresses this gap by providing real-world SCG signals collected via smartphone sensors from a diverse population.
+Cardiovascular diseases remain the leading cause of morbidity and mortality worldwide. SCG is a non-invasive technique that captures chest vibrations induced by cardiac activity and respiration, providing valuable insights into cardiac function. However, the scarcity of open-access SCG datasets has been a significant limitation for research in this field. The **MSCardio dataset** addresses this gap by providing real-world SCG signals collected via smartphone sensors from a diverse population.
 
 ## Data Description
 
@@ -86,9 +86,9 @@ If you use this dataset in your research, please cite:
 
 For any questions regarding the dataset, please contact:
 
-- **Your Name**: Amirtah`a Taebi and Mohammad Muntasir Rahman
+- Amirtahà Taebi and Mohammad Muntasir Rahman
 - **E-mail**: ataebi@abe.msstate.edu, mmr510@msstate.edu
-- **Institution**: Agricultural and Biological Engineering, Mississippi State University
+- Biomedical Engineering Program, Mississippi State University
 
 ---
 
