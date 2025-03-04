@@ -53,10 +53,10 @@ MSCardio_SCG_Dataset/
 
 ## Data Collection Protocol
 
-- Participants placed their smartphone on their chest while lying flat.
+- Participants placed their smartphone on their chest while lying in a supine position.
 - The app recorded SCG signals for approximately two minutes.
 - Self-reported demographic data were collected.
-- Data were uploaded to secure cloud storage.
+- Data were uploaded to the study's cloud storage.
 
 ## Usage and Applications
 
