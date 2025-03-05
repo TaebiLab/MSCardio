@@ -1,5 +1,7 @@
 # MSCardio Seismocardiography Dataset
 
+[![DOI](https://zenodo.org/badge/933023517.svg)](https://doi.org/10.5281/zenodo.14975877)
+
 ## Overview
 
 The **MSCardio Seismocardiography Dataset** is an open-access dataset collected as part of the Mississippi State Remote Cardiovascular Monitoring (MSCardio) study. This dataset includes seismocardiogram (SCG) signals recorded from participants using smartphone sensors, enabling scalable, real-world cardiovascular monitoring without requiring specialized equipment. The dataset aims to support research in SCG signal processing, machine learning applications in health monitoring, and cardiovascular assessment.
