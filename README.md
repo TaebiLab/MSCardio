@@ -1,6 +1,6 @@
 # MSCardio Seismocardiography Dataset
 
-[![DOI](https://zenodo.org/badge/933023517.svg)](https://doi.org/10.5281/zenodo.15657893)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15657893.svg)](https://doi.org/10.5281/zenodo.15657893)
 
 ## Overview
 
