@@ -44,12 +44,13 @@ The dataset is organized as follows:
 ```
 MSCardio_SCG_Dataset/
 │── info/
-│   └── all_subject_data.csv   # Consolidated metadata for all subjects
+│   └── all_subject_data.csv             # Consolidated metadata for all subjects
 │── MSCardio/
-│   ├── Subject_XXXX/          # Subject-specific folder
-│   │   ├── general_metadata.json  # Demographic and device information
-│   │   ├── Recording_XXX/         # Individual recordings
-│   │   │   ├── scg.csv            # SCG signal data
+│   ├── Subject_XXXX/                    # Subject-specific folder
+│   │   ├── general_metadata.json        # Demographic and device information
+│   │   ├── Recording_XXX/               # Individual recordings
+│   │   │   ├── scg.csv                  # SCG signal
+│   │   │   ├── uncalibrated_scg.csv     # Raw SCG signal
 │   │   │   ├── recording_metadata.json  # Timestamp and device details
 ```
 
